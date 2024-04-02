@@ -1,0 +1,47 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "Caneta Azul"
+    },
+    {
+      "id": "2",
+      "name": "Azul Caneta"
+    },
+    {
+      "id": "3",
+      "name": "Banana"
+    },
+    {
+      "id": "4",
+      "name": "Maça"
+    },
+    {
+      "id": "5",
+      "name": "Pera"
+    },
+    {
+      "id": "6",
+      "name": "Melancia"
+    },
+    {
+      "id": "7",
+      "name": "Melão"
+    },
+    {
+      "id": "8",
+      "name": "Pão de Batata"
+    },
+    {
+      "id": "30",
+      "name": "Pão de Batata",
+      "price": 1.5
+    }
+  ],
+  "customer": [
+    {
+      "id": "1",
+      "name": "Filho"
+    }
+  ]
+}
